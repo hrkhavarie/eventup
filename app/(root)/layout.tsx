@@ -1,6 +1,8 @@
 import Footer from "@/components/shared/Footer";
 import { Header } from "@/components/shared/Header";
 
+// layout for auth pages
+
 export default function RootLayout({
   children,
 }: Readonly<{
